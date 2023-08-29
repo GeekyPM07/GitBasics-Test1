@@ -1,2 +1,3 @@
 Entered first line inside story.
 Added second line in the story.
+Third line added.
